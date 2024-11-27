@@ -1,0 +1,6 @@
+@WACAPI_HostAddress = http://localhost:5139
+
+GET {{WACAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
